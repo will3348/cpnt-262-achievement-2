@@ -8,4 +8,3 @@
 - To write a JS code , I need to declare a variable first. Then I can print this with console.log. I can find this in console in browser(F12).
 - If I want to add a label to the console message, I can use ``` console.log('.....',variable);``` .
 - If ``` console.log(Number++) ```, the number shows in console will be the original number. if ``` console.log(++Number)```, the number shows in console will be the original number plus 1.
-- 
